@@ -146,13 +146,16 @@
     text-shadow: 1px 1px 2px gold;
     border: 1px solid rgba(153, 205, 50, 0.788);
     border-radius: 15px;
-    background-color: rgba(18, 119, 177, 0.438);
+    background-image: url(MYKEPIC3333.jpg);
+    background-position: center;
+    background-size: 32%;
     text-align: center;
     box-shadow: 0px 1px 5px lightsalmon;
     transition: 0.5s;
     text-align: center;
     justify-content: center;
     align-items: center;
+    opacity: 85%;
    
   }
   #search-input:focus{
