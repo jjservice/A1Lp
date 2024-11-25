@@ -178,10 +178,43 @@
     background-color: rgba(221, 57, 112, 0.233);
     transition: 0.5s;
   }
+  .current-song-details{
+    margin: 0% auto;
+    width: 200px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: crimson;
+    text-shadow: 1px 1px 1px wheat;
+    text-align: center;
+    border-bottom: 2px solid rgba(219, 40, 100, 0.555);
+    box-shadow: 0px 3px 6px rgba(153, 205, 50, 0.473);
+    padding: 5px 10px;
+    background-color: rgba(61, 2, 27, 0.411);
+    border-radius: 20px;
+    opacity: 90%;
+  }
+  #current-id{
+    margin: 0% auto;
+    font-size: 20px;
+    background-color: rgba(224, 221, 238, 0.151);
+    border-radius: 10px;
+    width: 70px;
+    margin-bottom: 5px;
+  }
+  #current-song-name{
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  #current-artist-name{
+    color: rgba(0, 0, 139, 0.788);
+    text-shadow: 1px 1px 1px wheat;
+    font-size: 12px;
+  }
   
   
   .song-list {
-    height: 35vh;
+    height: 30vh;
     list-style: none;
     overflow-y: scroll;
     justify-content: center;
@@ -348,20 +381,20 @@
       transition: 3s;
     }
     .song-list{
-      margin: 0% auto;
+      height: 30vh;
       font-size: 25px;
       justify-content: center;
       align-items: center;
       text-align: center;
-      min-height: 300px;
+      
     }
     .song-list img {
       margin: 0% auto;
-      min-width: 250px;
-      min-height: 250px;
+      min-width: 150px;
+      min-height: 150px;
     }
     .song-item{
-      margin-bottom: 50px;
+      margin-bottom: 20px;
     }
     #search-input {
       width: 100%;
