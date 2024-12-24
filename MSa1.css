@@ -26,6 +26,7 @@
     border-radius: 40px;
     box-shadow: 0px 2px 15px lightskyblue;
     height: auto;
+    margin-bottom: 55px;
     
   }
   body.lightPlayer .music-player{
@@ -356,6 +357,7 @@
       border-radius: 40px;
       box-shadow: 0px 2px 15px lightblue;
       transition: 0.5s;
+      margin-bottom: 45px;
     
     }
     body.lightPlayer .music-player{
