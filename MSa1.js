@@ -1,52 +1,52 @@
 const songs = [ 
     {
         "id": 1,
+        "name": "TO LOS PODERES",
+        "artist": "Myke Towers",
+        "img": "mykeTowersBalompiePic.jpg",
+        "music": "Myke Towers - TO' LOS PODERES.mp3"
+    },      
+    {
+        "id": 2,
         "name": "BILLY VAN",
         "artist": "Myke Towers",
         "img": "mykeTowersBalompiePic.jpg",
         "music": "Myke Towers - BILLY VAN.mp3"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "TÍTERES",
         "artist": "Myke Towers x Pressure 9X19",
         "img": "mykeTowersBalompiePic.jpg",
         "music": "Myke Towers & Pressure 9X19 - TÍTERES.mp3"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "EQUIPO DE BALOMPIÉ",
         "artist": "Myke Towers",
         "img": "mykeTowersBalompiePic.jpg",
         "music": "Myke Towers - EQUIPO DE BALOMPIÉ.mp3"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Solo $exo",
         "artist": "Myke Towers",
         "img": "mykepic2.jpg",
         "music": "Myke Towers - Solo $exo.mp3"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Alto Riesgo",
         "artist": "Myke Towers",
         "img": "MYKEPIC3333.jpg",
         "music": "Myke Towers - Alto Riesgo.mp3"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Celos",
         "artist": "Myke Towers & J Balvin",
         "img": "CELOSPIC.jpg",
         "music": "Myke Towers & J Balvin - Celos.mp3"
-    },
-    {
-        "id": 7,
-        "name": "Pauta y Flow",
-        "artist": "Myke Towers",
-        "img": "mykepic4.jpg",
-        "music": "Myke Towers - Pauta y Flow.mp3"
     },
     {
         "id": 8,
@@ -194,7 +194,14 @@ const songs = [
         "artist": "Dei V ft Myke Towers",
         "img": "TrendiDeiviTowerPic.jpg",
         "music": "Dei V, Myke Towers - Trending Remix (LetraLyrics).mp3"
-    }   
+    },
+    {
+        "id": 29,
+        "name": "Pauta y Flow",
+        "artist": "Myke Towers",
+        "img": "mykepic4.jpg",
+        "music": "Myke Towers - Pauta y Flow.mp3"
+    }
  ];
  const searchInput = document.getElementById("search-input");
  const songList = document.getElementById("song-list");
