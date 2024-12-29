@@ -8,216 +8,195 @@ const songs = [
     }, 
     {
         "id": 2,
-        "name": "THANKS FOR CHOOSING US!",
-        "artist": "Lollipop Club",
-        "img": "MonkeyDesignGif.gif",
-        "music": "Lollipop-VoiceLogo111.mp3"
-    },     
-    {
-        "id": 3,
         "name": "BILLY VAN",
         "artist": "Myke Towers",
         "img": "mykeTowersBalompiePic.jpg",
         "music": "Myke Towers - BILLY VAN.mp3"
     },
     {
-        "id": 4,
+        "id": 3,
         "name": "TÍTERES",
         "artist": "Myke Towers x Pressure 9X19",
         "img": "mykeTowersBalompiePic.jpg",
         "music": "Myke Towers & Pressure 9X19 - TÍTERES.mp3"
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "EQUIPO DE BALOMPIÉ",
         "artist": "Myke Towers",
         "img": "mykeTowersBalompiePic.jpg",
         "music": "Myke Towers - EQUIPO DE BALOMPIÉ.mp3"
     },
     {
-        "id": 6,
-        "name": "THANKS FOR CHOOSING US!",
-        "artist": "Lollipop Club",
-        "img": "MonkeyDesignGif.gif",
-        "music": "Lollipop-VoiceLogo111.mp3"
-    }, 
-    {
-        "id": 7,
+        "id": 5,
         "name": "Solo $exo",
         "artist": "Myke Towers",
         "img": "mykepic2.jpg",
         "music": "Myke Towers - Solo $exo.mp3"
     },
     {
-        "id": 8,
+        "id": 6,
         "name": "Alto Riesgo",
         "artist": "Myke Towers",
         "img": "MYKEPIC3333.jpg",
         "music": "Myke Towers - Alto Riesgo.mp3"
     },
     {
-        "id": 9,
+        "id": 7,
         "name": "Celos",
         "artist": "Myke Towers & J Balvin",
         "img": "CELOSPIC.jpg",
         "music": "Myke Towers & J Balvin - Celos.mp3"
     },
     {
-        "id": 10,
+        "id": 8,
         "name": "Piensan",
         "artist": "Myke Towers",
         "img": "mikepiensanpi.jpg",
         "music": "Myke Towers - Piensan (Video Oficial).mp3"
     },
     {
-        "id": 11,
+        "id": 9,
         "name": "Joven Leyenda",
         "artist": "Myke Towers",
         "img": "MYKEPIC3333.jpg",
         "music": "Myke Towers - Joven Leyenda.mp3"
     },
     {
-        "id": 12,
+        "id": 10,
         "name": "Dígitos",
         "artist": "Arcangel X Myke Towers",
         "img": "MIKEARCPICCC.jpg",
         "music": "Arcangel, Myke Towers - Dígitos.mp3"
     },
     {
-        "id": 13,
+        "id": 11,
         "name": "Inocente",
         "artist": "Myke Towers",
         "img": "INOCENTEMIKEPIC.jpg",
         "music": "Myke Towers - Inocente.mp3"
-    },
-    {
-        "id": 14,
-        "name": "THANKS FOR CHOOSING US!",
-        "artist": "Lollipop Club",
-        "img": "MonkeyDesignGif.gif",
-        "music": "Lollipop-VoiceLogo111.mp3"
     }, 
     {
-        "id": 15,
+        "id": 12,
         "name": "DIABLITA",
         "artist": "Myke Towers ft Youngchimi",
         "img": "DIABLITAPIC.jpg",
         "music": "Myke Towers & Yovngchimi - DIABLITA (Visualizer).mp3"
     },
     {
-        "id": 16,
+        "id": 13,
         "name": "La Tranza",
         "artist": "Bulin47 X myke towers",
         "img": "TRABULINMIKEPIC.jpg",
         "music": "Bulin 47 x Myke Towers - La Tranza (Video Oficial).mp3"
     },
     {
-        "id": 17,
+        "id": 14,
         "name": "DON & TEGO",
         "artist": "Myke Towers & Arcangel",
         "img": "MIKEARCPICCC.jpg",
         "music": "Myke Towers & Arcangel - DON & TEGO.mp3"
     },
     {
-        "id": 18,
+        "id": 15,
         "name": "MAYOR",
         "artist": "Myke Towers x Yandel",
         "img": "MIKEYANDELP[IC.jpg",
         "music": "MAYOR - Myke Towers & Yandel.mp3"
     },
     {
-        "id": 19,
+        "id": 16,
         "name": "Gallery Dept",
         "artist": "Myke Towers",
         "img": "mykepic2.jpg",
         "music": "Myke Towers - Gallery Dept.mp3"
     },
     {
-        "id": 20,
+        "id": 17,
         "name": "SEXO DESENFRENADO",
         "artist": "Myke Towers",
         "img": "MIKEPIC22222.jpg",
         "music": "Myke Towers - SEXO DESENFRENADO.mp3"
     },
     {
-        "id": 21,
+        "id": 18,
         "name": "Los Angeles",
         "artist": "Myke Towers",
         "img": "MYKEPIC3333.jpg",
         "music": "Myke Towers - Los Angeles.mp3"
     },
     {
-        "id": 22,
+        "id": 19,
         "name": "VAMO A DALE",
         "artist": "Myke Towers ft Cosculluela",
         "img": "1COCUMIKEPIC.jpg",
         "music": "Myke Towers & Cosculluela - VAMO A DARLE (Visualizer).mp3"
     },
     {
-        "id": 23,
+        "id": 20,
         "name": "Ajedrez",
         "artist": "Myke Towers",
         "img": "1MYKEPIC1.jpg",
         "music": "Myke Towers - Ajedréz (Lyric Video) (1).mp3"
     },
     {
-        "id": 24,
+        "id": 21,
         "name": "Cuando me Ven",
         "artist": "Myke Towers",
         "img": "1MYKEPIC1.jpg",
         "music": "Myke Towers - Cuando Me Ven (Lyric Video).mp3"
     },
     {
-        "id": 25,
+        "id": 22,
         "name": "AUNQUE LLEGUE OTRO",
         "artist": "Myke Towers & Jay Wheeler",
         "img": "mykejaypic.jpg",
         "music": "Myke Towers & Jay Wheeler - AUNQUE LLEGUE OTRO.mp3"
     },
     {
-        "id": 26,
+        "id": 23,
         "name": "34.PFA",
         "artist": "Myke Towers",
         "img": "1MYKEPIC1.jpg",
         "music": "Myke Towers - PFA (Lyric Video).mp3"
     },
     {
-        "id": 27,
+        "id": 24,
         "name": "ADIVINO",
         "artist": "Myke Towers x Bad Bunny",
         "img": "mykebadadivinopic.jpg",
         "music": "Myke Towers, Bad Bunny - ADIVINO.mp3"
     },
     {
-        "id": 28,
+        "id": 25,
         "name": "Fast Money",
         "artist": "Ñengo Flow ft Myke Towers",
         "img": "FASTMONEYPC.jpg",
         "music": "Ñengo Flow x Myke Towers - Fast Money [Official Video].mp3"
     },
     {
-        "id": 29,
+        "id": 26,
         "name": "DINERO y FAMA",
         "artist": "Myke Towers & Omar Montes",
         "img": "MykeDineroYfamaPic.jpg",
         "music": "Myke Towers & Omar Montes - DINERO y FAMA.mp3"
     },
     {
-        "id": 30,
+        "id": 27,
         "name": "OBVIO",
         "artist": "Myke Towers",
         "img": "MykeObvioPIC.jpg",
         "music": "Myke Towers - OBVIO (Visualizer).mp3"
     },
     {
-        "id": 31,
+        "id": 28,
         "name": "Trending",
         "artist": "Dei V ft Myke Towers",
         "img": "TrendiDeiviTowerPic.jpg",
         "music": "Dei V, Myke Towers - Trending Remix (LetraLyrics).mp3"
     },
     {
-        "id": 32,
+        "id": 29,
         "name": "Pauta y Flow",
         "artist": "Myke Towers",
         "img": "mykepic4.jpg",
