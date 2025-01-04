@@ -1,66 +1,66 @@
 const songs = [ 
     {
         "id": 1,
+        "name": "NIGHTMARE",
+        "artist": "Myke Towers",
+        "img": "mykeTowersBalompiePic.jpg",
+        "music": "./Myke Towers - NIGHTMARE.mp3"
+    }, 
+    {
+        "id": 2,
         "name": "TO LOS PODERES",
         "artist": "Myke Towers",
         "img": "mykeTowersBalompiePic.jpg",
         "music": "Myke Towers - TO' LOS PODERES.mp3"
     }, 
     {
-        "id": 2,
+        "id": 3,
         "name": "BILLY VAN",
         "artist": "Myke Towers",
         "img": "mykeTowersBalompiePic.jpg",
         "music": "Myke Towers - BILLY VAN.mp3"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "TÍTERES",
         "artist": "Myke Towers x Pressure 9X19",
         "img": "mykeTowersBalompiePic.jpg",
         "music": "Myke Towers & Pressure 9X19 - TÍTERES.mp3"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "EQUIPO DE BALOMPIÉ",
         "artist": "Myke Towers",
         "img": "mykeTowersBalompiePic.jpg",
         "music": "Myke Towers - EQUIPO DE BALOMPIÉ.mp3"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Solo $exo",
         "artist": "Myke Towers",
         "img": "mykepic2.jpg",
         "music": "Myke Towers - Solo $exo.mp3"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Alto Riesgo",
         "artist": "Myke Towers",
         "img": "MYKEPIC3333.jpg",
         "music": "Myke Towers - Alto Riesgo.mp3"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Celos",
         "artist": "Myke Towers & J Balvin",
         "img": "CELOSPIC.jpg",
         "music": "Myke Towers & J Balvin - Celos.mp3"
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Piensan",
         "artist": "Myke Towers",
         "img": "mikepiensanpi.jpg",
         "music": "Myke Towers - Piensan (Video Oficial).mp3"
-    },
-    {
-        "id": 9,
-        "name": "Joven Leyenda",
-        "artist": "Myke Towers",
-        "img": "MYKEPIC3333.jpg",
-        "music": "Myke Towers - Joven Leyenda.mp3"
     },
     {
         "id": 10,
@@ -201,7 +201,14 @@ const songs = [
         "artist": "Myke Towers",
         "img": "mykepic4.jpg",
         "music": "Myke Towers - Pauta y Flow.mp3"
-    }
+    },
+    {
+        "id": 30,
+        "name": "Joven Leyenda",
+        "artist": "Myke Towers",
+        "img": "MYKEPIC3333.jpg",
+        "music": "Myke Towers - Joven Leyenda.mp3"
+    },
  ];
  const searchInput = document.getElementById("search-input");
  const songList = document.getElementById("song-list");
